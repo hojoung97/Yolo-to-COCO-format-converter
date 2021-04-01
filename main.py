@@ -11,11 +11,26 @@ import numpy as np
 
 # Class에 맞게 바꿔줘야함
 classes = [
-"chair",
-"handle",
-"table",
-"button",
-"person",
+    'airplane', 'apple', 
+    'backpack', 'banana', 'baseball bat', 'baseball glove', 'bear', 'bed', 'bench', 'bicycle', 'bird', 'boat', 'book', 'bottle', 'bowl', 'broccoli', 'bus', 
+    'cake', 'car', 'carrot', 'cat', 'cell phone', 'chair', 'clock', 'couch', 'cow', 'cup', 
+    'dining table', 'dog', 'donut', 
+    'elephant', 
+    'fire hydrant', 'fork', 'frisbee', 
+    'giraffe', 
+    'handbag', 'horse', 'hot dog', 
+    'keyboard', 'kite', 'knife', 
+    'laptop', 
+    'microwave', 'motorcycle', 'mouse', 
+    'orange', 'oven', 
+    'parking meter', 'person', 'pizza', 'potted plant', 
+    'refrigerator', 'remote', 
+    'sandwich', 'scissors', 'sheep', 'sink', 'skateboard', 'skis', 'snowboard', 'spoon', 'sports ball', 'stop sign', 'suitcase', 'surfboard', 
+    'teddy bear', 'tennis racket', 'tie', 'toaster', 'toilet', 'toothbrush', 'traffic light', 'train', 'truck', 'tv', 
+    'umbrella', 
+    'vase', 
+    'wine glass', 
+    'zebra'
 ]
 
 # Get 'images' and 'annotations' info
